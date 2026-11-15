@@ -1,4 +1,4 @@
 {
-  "sha256": "6a3c28c70d9355f1fb3df7a211bbbd75ba5187edae701a1aa42f189dee7c01f8",
+  "sha256": "3e6b8ab6582f1525e8701f99000871777c47b311e3227a2f6ee2c9c7d403e3a9",
   "note": "Hash of the generated index.html. If index.html is edited by hand, build-paper-sites.mjs keeps the edit."
 }
