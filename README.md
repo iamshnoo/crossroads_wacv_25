@@ -1,6 +1,25 @@
-# Nerfies fork
+# Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models
 
-This repository contains source code forked from the [Nerfies website](https://nerfies.github.io).
+Anjishnu Mukherjee, Ziwei Zhu, Antonios Anastasopoulos. WACV 2025.
 
-# Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+LLaVA and GPT-4V identify the region of culturally themed DALL-E 3 images more accurately than human annotators (78.05% and 56.31% against 47.63%), but the same models score between 19% and 42% on the Dollar Street and MaRVL photographs. We release DalleStreet, 9,935 generated images from 67 countries, and CultureAdapt, a pipeline that edits an image toward a target culture.
+
+- Project page: https://iamshnoo.github.io/crossroads_wacv_25/
+- Paper: https://openaccess.thecvf.com/content/WACV2025/html/Mukherjee_Crossroads_of_Continents_Automated_Artifact_Extraction_for_Cultural_Adaptation_with_WACV_2025_paper.html
+- arXiv: https://arxiv.org/abs/2407.02067
+- Code: https://github.com/iamshnoo/crossroads
+
+This repository holds the project page only. It is generated from [iamshnoo.github.io](https://github.com/iamshnoo/iamshnoo.github.io) by `scripts/build-paper-sites.mjs`; edit the data there, not this HTML.
+
+## Citation
+
+```bibtex
+@InProceedings{Mukherjee_2025_WACV,
+    author    = {Mukherjee, Anjishnu and Zhu, Ziwei and Anastasopoulos, Antonios},
+    title     = {Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {1755-1764}
+}
+```
